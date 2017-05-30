@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Labs\OOP2Kurs\WildWorld\WildWorld\bin\Debug\WildWorld.exe.config
+C:\Users\User\Desktop\Labs\OOP2Kurs\WildWorld\WildWorld\obj\Debug\WildWorld.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Labs\OOP2Kurs\WildWorld\WildWorld\obj\Debug\WildWorld.Properties.Resources.resources
+C:\Users\User\Desktop\Labs\OOP2Kurs\WildWorld\WildWorld\obj\Debug\WildWorld.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Labs\OOP2Kurs\WildWorld\WildWorld\bin\Debug\WildWorld.exe
+C:\Users\User\Desktop\Labs\OOP2Kurs\WildWorld\WildWorld\bin\Debug\WildWorld.pdb
+C:\Users\User\Desktop\Labs\OOP2Kurs\WildWorld\WildWorld\obj\Debug\WildWorld.exe
+C:\Users\User\Desktop\Labs\OOP2Kurs\WildWorld\WildWorld\obj\Debug\WildWorld.pdb
+C:\Users\User\Desktop\Labs\OOP2Kurs\WildWorld\WildWorld\obj\Debug\WildWorld.MainForm.resources
